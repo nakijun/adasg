@@ -1,2 +1,2 @@
 @echo off
-nant -buildfile:%BUILDFILE% rebuild %*
+msbuild /t:rebuild %*

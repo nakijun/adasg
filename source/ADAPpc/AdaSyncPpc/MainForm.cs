@@ -411,12 +411,16 @@ namespace AdaSyncPpc
                     this.textBoxStatus.Text += message + "\r\n";
 #endif
                 }
+#if DEBUG
                 catch (Exception ex)
                 {
-#if DEBUG
                     this.textBoxStatus.Text += ex.Message + "\r\n";
-#endif
                 }
+#else
+                catch
+                {
+                }
+#endif
             }
 
             this.textBoxStatus.Text += string.Format("Connection to server {0} is {1}",

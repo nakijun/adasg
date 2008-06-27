@@ -87,12 +87,6 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
-    <Content Include="Setup7.ini" />
-    <None Include="Setup5.ini" />
-    <None Include="Setup6.ini" />
-    <None Include="Setup4.ini" />
-    <None Include="Setup2.ini" />
-    <None Include="Setup3.ini" />
     <None Include="Setup.ini" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
