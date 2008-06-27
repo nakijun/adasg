@@ -15,7 +15,19 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_0AC0292DC6FA4F8F9F245D5C792786A5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_0CE22949140D40FF95C93968BFE25C13"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2175F5AAEC7540EFAFDCE655FE2CB29D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -33,7 +45,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_4BD485A8CFD449B9A2830E312594D246"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_514A21B116C6452BB9AF6680D2D65C2B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_51ECF5A9C9BC4BD7B8576FC24B7475D7"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -63,6 +87,18 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_D19682AA916B49898DFD312D6EA28AEC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DF5F4C7AC05D48C682DAD232D6CB99C9"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_F23F251BA5E84778A6F110E9F8012F1E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -71,6 +107,12 @@
         {
         "MsmKey" = "8:_FB81F0941B2D458183AB03A19348E355"
         "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_FD78B3A22F3BA3BCF0ACDB7B22B3DF91"
+        "OwnerKey" = "8:_97B6DD02F926404F8B93A16694D5DEFA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -95,6 +137,12 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_97B6DD02F926404F8B93A16694D5DEFA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_FD78B3A22F3BA3BCF0ACDB7B22B3DF91"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -219,12 +267,92 @@
         }
         "File"
         {
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0AC0292DC6FA4F8F9F245D5C792786A5"
+            {
+            "SourcePath" = "8:Install_ADAPpc\\2-System GBKC.cab"
+            "TargetName" = "8:2-System GBKC.cab"
+            "Tag" = "8:"
+            "Folder" = "8:_521872EE0D5E4F65950E1BAB304019A1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2175F5AAEC7540EFAFDCE655FE2CB29D"
+            {
+            "SourcePath" = "8:Install_ADAPpc\\6-DFTTS_Male.cab"
+            "TargetName" = "8:6-DFTTS_Male.cab"
+            "Tag" = "8:"
+            "Folder" = "8:_521872EE0D5E4F65950E1BAB304019A1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4BD485A8CFD449B9A2830E312594D246"
+            {
+            "SourcePath" = "8:Install_ADAPpc\\5-DFTTS.cab"
+            "TargetName" = "8:5-DFTTS.cab"
+            "Tag" = "8:"
+            "Folder" = "8:_521872EE0D5E4F65950E1BAB304019A1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_514A21B116C6452BB9AF6680D2D65C2B"
             {
             "SourcePath" = "8:..\\..\\..\\config\\GuestOnly.reg"
             "TargetName" = "8:GuestOnly.reg"
             "Tag" = "8:"
             "Folder" = "8:_39F38333BF25421393A45F96AACEC748"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_51ECF5A9C9BC4BD7B8576FC24B7475D7"
+            {
+            "SourcePath" = "8:Install_ADAPpc\\3-sqlce.ppc.wce5.armv4i.CAB"
+            "TargetName" = "8:3-sqlce.ppc.wce5.armv4i.CAB"
+            "Tag" = "8:"
+            "Folder" = "8:_521872EE0D5E4F65950E1BAB304019A1"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -259,6 +387,77 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D19682AA916B49898DFD312D6EA28AEC"
+            {
+            "SourcePath" = "8:Install_ADAPpc\\1-NETCFv2.wm.armv4i.cab"
+            "TargetName" = "8:1-NETCFv2.wm.armv4i.cab"
+            "Tag" = "8:"
+            "Folder" = "8:_521872EE0D5E4F65950E1BAB304019A1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DF5F4C7AC05D48C682DAD232D6CB99C9"
+            {
+            "SourcePath" = "8:Install_ADAPpc\\4-sqlce.repl.ppc.wce5.armv4i.CAB"
+            "TargetName" = "8:4-sqlce.repl.ppc.wce5.armv4i.CAB"
+            "Tag" = "8:"
+            "Folder" = "8:_521872EE0D5E4F65950E1BAB304019A1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_FD78B3A22F3BA3BCF0ACDB7B22B3DF91"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:dotnetCharting.WinForms, Version=4.4.2853.21899, Culture=neutral, PublicKeyToken=c3f34d622663b9f1, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_FD78B3A22F3BA3BCF0ACDB7B22B3DF91"
+                    {
+                    "Name" = "8:dotnetCharting.WinForms.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:dotnetCharting.WinForms.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_39F38333BF25421393A45F96AACEC748"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
         }
         "FileType"
         {
@@ -277,7 +476,7 @@
                 {
                     "{9EF0B969-E518-4E46-987F-47570745A589}:_521872EE0D5E4F65950E1BAB304019A1"
                     {
-                    "Name" = "8:PocketPC"
+                    "Name" = "8:Install_ADAPpc"
                     "AlwaysCreate" = "11:FALSE"
                     "Condition" = "8:"
                     "Transitive" = "11:FALSE"
