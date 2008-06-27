@@ -66,4 +66,20 @@
   <Target Name="Rebuild" DependsOnTargets="Clean;Build">
   </Target>
 
+  <Target Name="Update">
+    <Exec Command="&quot;C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe&quot; /command:update /path:%WORKSPACE% /notempfile /closeonend:3" IgnoreExitCode="true"/>
+  </Target>
+
+  <Target Name="BuildMSI" DependsOnTargets="Update">
+    <Exec Command="&quot;C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\devenv.com&quot; source\Setup\SetupADA.sln /rebuild Release /project SetupADA /projectconfig Release /Out SetupADABuild.log"/>
+  </Target>
+
+  <Target Name="Install" DependsOnTargets="Clean;Update;BuildMSI">
+    <Exec Command="explorer source\Setup\SetupADA\Release\" ContinueOnError="true" IgnoreExitCode="true"/>
+  </Target>
+
+  <Target Name="Commit" DependsOnTargets="Clean">
+    <Exec Command="&quot;C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe&quot; /command:commit /path:%WORKSPACE% /notempfile /closeonend:3" IgnoreExitCode="true"/>
+  </Target>
+
 </Project>
