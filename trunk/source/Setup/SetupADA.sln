@@ -1,0 +1,322 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupADA", "SetupADA\SetupADA.vdproj", "{816A934B-AC16-433E-9816-3A0E2756E353}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CustomInstaller", "CustomInstaller\CustomInstaller.vbproj", "{504799B1-9C68-483C-B9D6-9D8E6DE2FBAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaMainPpc", "..\ADAPpc\AdaMainPpc\AdaMainPpc.csproj", "{F808395E-7D62-43AC-BD88-9D68F636BB8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaSchedulePpc", "..\ADAPpc\AdaSchedulePpc\AdaSchedulePpc.csproj", "{4E0CC8AD-E9A3-42E5-A22F-B464EC2D5D37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaWorkSystemPpc", "..\ADAPpc\AdaWorkSystemPpc\AdaWorkSystemPpc.csproj", "{A9C66204-FCD2-4E7C-A004-A210B533F3B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaCommunicatorPpc", "..\ADAPpc\AdaCommunicatorPpc\AdaCommunicatorPpc.csproj", "{B5087CFB-7508-4333-920B-F003E49DCE11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaTimerPpc", "..\ADAPpc\AdaTimerPpc\AdaTimerPpc.csproj", "{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaSyncPpc", "..\ADAPpc\AdaSyncPpc\AdaSyncPpc.csproj", "{2C01926B-9E1B-4EB2-A98D-56C9B8385230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilitiesPpc", "..\ADAPpc\UtilitiesPpc\UtilitiesPpc.csproj", "{D8AB685E-867E-47B0-B427-F6866743A0A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XrossGDIPlus", "..\ADAPpc\XrossGDIPlus\XrossGDIPlus.csproj", "{24D9527D-ECFA-4F55-871F-569F781838FE}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "SmartDeviceCabAdaPpc", "..\ADAPpc\SmartDeviceCabAdaPpc\SmartDeviceCabAdaPpc.vddproj", "{B41289E7-078D-4FC4-8763-BA6C7EC5F1EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "..\ADA\Utilities\Utilities.csproj", "{787B600C-9A56-41C7-A3C8-9553630FE3C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADADataAccess", "..\ADA\ADADataAccess\ADADataAccess.csproj", "{904B8A0F-9D0C-453A-A135-BA622BF91103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenNETCF.Desktop.Communication", "..\ADA\Communication\OpenNETCF.Desktop.Communication.csproj", "{60FD337B-8EB5-4E20-A951-6EBB09CCE442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADASymbolPicker", "..\ADA\ADASymbolPicker\ADASymbolPicker.csproj", "{562C2915-8E47-40ED-9493-F67018BFDFE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymbolManager", "..\ADA\SymbolManager\SymbolManager.csproj", "{FA476A45-2BD5-413A-8004-F004C2897C64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADAWorkSystem", "..\ADA\ADAWorkSystem\ADAWorkSystem.csproj", "{89ECC5F5-366E-4149-BEBC-C690ECB51CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADASchedule", "..\ADA\ADASchedule\ADASchedule.csproj", "{899DA3BB-3ACF-4316-8658-4616E109A7F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADACommunicator", "..\ADA\ADACommunicator\ADACommunicator.csproj", "{CD25FCE6-26E5-4D5F-B4B8-938B108C8EE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADAControlCentre", "..\ADA\ADAControlCentre\ADAControlCentre.csproj", "{B091CB29-327E-45F4-9CD2-4A85D2E9B4D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADAAnalyzer", "..\ADA\ADAAnalyzer\ADAAnalyzer.csproj", "{B9E737C6-3368-460E-B3FD-9CD5DEDDCAB5}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "DFTTS", "DFTTS\DFTTS.vddproj", "{89A6CBB5-D950-493E-AB2C-E49F462A5627}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "DFTTS_Male", "DFTTS_Male\DFTTS_Male.vddproj", "{575BBDE7-214C-45A6-B11C-6849E147B33E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I) = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I) = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{504799B1-9C68-483C-B9D6-9D8E6DE2FBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504799B1-9C68-483C-B9D6-9D8E6DE2FBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504799B1-9C68-483C-B9D6-9D8E6DE2FBAF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{504799B1-9C68-483C-B9D6-9D8E6DE2FBAF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{504799B1-9C68-483C-B9D6-9D8E6DE2FBAF}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{504799B1-9C68-483C-B9D6-9D8E6DE2FBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504799B1-9C68-483C-B9D6-9D8E6DE2FBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504799B1-9C68-483C-B9D6-9D8E6DE2FBAF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{504799B1-9C68-483C-B9D6-9D8E6DE2FBAF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{504799B1-9C68-483C-B9D6-9D8E6DE2FBAF}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{F808395E-7D62-43AC-BD88-9D68F636BB8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F808395E-7D62-43AC-BD88-9D68F636BB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F808395E-7D62-43AC-BD88-9D68F636BB8F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F808395E-7D62-43AC-BD88-9D68F636BB8F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F808395E-7D62-43AC-BD88-9D68F636BB8F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F808395E-7D62-43AC-BD88-9D68F636BB8F}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
+		{F808395E-7D62-43AC-BD88-9D68F636BB8F}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{F808395E-7D62-43AC-BD88-9D68F636BB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F808395E-7D62-43AC-BD88-9D68F636BB8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F808395E-7D62-43AC-BD88-9D68F636BB8F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F808395E-7D62-43AC-BD88-9D68F636BB8F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F808395E-7D62-43AC-BD88-9D68F636BB8F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F808395E-7D62-43AC-BD88-9D68F636BB8F}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
+		{F808395E-7D62-43AC-BD88-9D68F636BB8F}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{4E0CC8AD-E9A3-42E5-A22F-B464EC2D5D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0CC8AD-E9A3-42E5-A22F-B464EC2D5D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0CC8AD-E9A3-42E5-A22F-B464EC2D5D37}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4E0CC8AD-E9A3-42E5-A22F-B464EC2D5D37}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4E0CC8AD-E9A3-42E5-A22F-B464EC2D5D37}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4E0CC8AD-E9A3-42E5-A22F-B464EC2D5D37}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
+		{4E0CC8AD-E9A3-42E5-A22F-B464EC2D5D37}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{4E0CC8AD-E9A3-42E5-A22F-B464EC2D5D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0CC8AD-E9A3-42E5-A22F-B464EC2D5D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0CC8AD-E9A3-42E5-A22F-B464EC2D5D37}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4E0CC8AD-E9A3-42E5-A22F-B464EC2D5D37}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4E0CC8AD-E9A3-42E5-A22F-B464EC2D5D37}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4E0CC8AD-E9A3-42E5-A22F-B464EC2D5D37}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
+		{4E0CC8AD-E9A3-42E5-A22F-B464EC2D5D37}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{A9C66204-FCD2-4E7C-A004-A210B533F3B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C66204-FCD2-4E7C-A004-A210B533F3B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C66204-FCD2-4E7C-A004-A210B533F3B1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A9C66204-FCD2-4E7C-A004-A210B533F3B1}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A9C66204-FCD2-4E7C-A004-A210B533F3B1}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A9C66204-FCD2-4E7C-A004-A210B533F3B1}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
+		{A9C66204-FCD2-4E7C-A004-A210B533F3B1}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{A9C66204-FCD2-4E7C-A004-A210B533F3B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C66204-FCD2-4E7C-A004-A210B533F3B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9C66204-FCD2-4E7C-A004-A210B533F3B1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A9C66204-FCD2-4E7C-A004-A210B533F3B1}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A9C66204-FCD2-4E7C-A004-A210B533F3B1}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A9C66204-FCD2-4E7C-A004-A210B533F3B1}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
+		{A9C66204-FCD2-4E7C-A004-A210B533F3B1}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{B5087CFB-7508-4333-920B-F003E49DCE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5087CFB-7508-4333-920B-F003E49DCE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5087CFB-7508-4333-920B-F003E49DCE11}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B5087CFB-7508-4333-920B-F003E49DCE11}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B5087CFB-7508-4333-920B-F003E49DCE11}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B5087CFB-7508-4333-920B-F003E49DCE11}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
+		{B5087CFB-7508-4333-920B-F003E49DCE11}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{B5087CFB-7508-4333-920B-F003E49DCE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5087CFB-7508-4333-920B-F003E49DCE11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5087CFB-7508-4333-920B-F003E49DCE11}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B5087CFB-7508-4333-920B-F003E49DCE11}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B5087CFB-7508-4333-920B-F003E49DCE11}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B5087CFB-7508-4333-920B-F003E49DCE11}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
+		{B5087CFB-7508-4333-920B-F003E49DCE11}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{2C01926B-9E1B-4EB2-A98D-56C9B8385230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C01926B-9E1B-4EB2-A98D-56C9B8385230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C01926B-9E1B-4EB2-A98D-56C9B8385230}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2C01926B-9E1B-4EB2-A98D-56C9B8385230}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2C01926B-9E1B-4EB2-A98D-56C9B8385230}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2C01926B-9E1B-4EB2-A98D-56C9B8385230}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
+		{2C01926B-9E1B-4EB2-A98D-56C9B8385230}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{2C01926B-9E1B-4EB2-A98D-56C9B8385230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C01926B-9E1B-4EB2-A98D-56C9B8385230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C01926B-9E1B-4EB2-A98D-56C9B8385230}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2C01926B-9E1B-4EB2-A98D-56C9B8385230}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2C01926B-9E1B-4EB2-A98D-56C9B8385230}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2C01926B-9E1B-4EB2-A98D-56C9B8385230}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
+		{2C01926B-9E1B-4EB2-A98D-56C9B8385230}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{D8AB685E-867E-47B0-B427-F6866743A0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8AB685E-867E-47B0-B427-F6866743A0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8AB685E-867E-47B0-B427-F6866743A0A4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D8AB685E-867E-47B0-B427-F6866743A0A4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D8AB685E-867E-47B0-B427-F6866743A0A4}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
+		{D8AB685E-867E-47B0-B427-F6866743A0A4}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{D8AB685E-867E-47B0-B427-F6866743A0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8AB685E-867E-47B0-B427-F6866743A0A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8AB685E-867E-47B0-B427-F6866743A0A4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D8AB685E-867E-47B0-B427-F6866743A0A4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D8AB685E-867E-47B0-B427-F6866743A0A4}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
+		{D8AB685E-867E-47B0-B427-F6866743A0A4}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Debug|Mixed Platforms.Deploy.0 = Debug|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Release|Mixed Platforms.Deploy.0 = Release|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{B41289E7-078D-4FC4-8763-BA6C7EC5F1EA}.Debug|Any CPU.ActiveCfg = Debug
+		{B41289E7-078D-4FC4-8763-BA6C7EC5F1EA}.Debug|Any CPU.Build.0 = Debug
+		{B41289E7-078D-4FC4-8763-BA6C7EC5F1EA}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{B41289E7-078D-4FC4-8763-BA6C7EC5F1EA}.Debug|Mixed Platforms.Build.0 = Debug
+		{B41289E7-078D-4FC4-8763-BA6C7EC5F1EA}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug
+		{B41289E7-078D-4FC4-8763-BA6C7EC5F1EA}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Build.0 = Debug
+		{B41289E7-078D-4FC4-8763-BA6C7EC5F1EA}.Release|Any CPU.ActiveCfg = Release
+		{B41289E7-078D-4FC4-8763-BA6C7EC5F1EA}.Release|Any CPU.Build.0 = Release
+		{B41289E7-078D-4FC4-8763-BA6C7EC5F1EA}.Release|Mixed Platforms.ActiveCfg = Release
+		{B41289E7-078D-4FC4-8763-BA6C7EC5F1EA}.Release|Mixed Platforms.Build.0 = Release
+		{B41289E7-078D-4FC4-8763-BA6C7EC5F1EA}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release
+		{B41289E7-078D-4FC4-8763-BA6C7EC5F1EA}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Build.0 = Release
+		{787B600C-9A56-41C7-A3C8-9553630FE3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787B600C-9A56-41C7-A3C8-9553630FE3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787B600C-9A56-41C7-A3C8-9553630FE3C1}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{787B600C-9A56-41C7-A3C8-9553630FE3C1}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{787B600C-9A56-41C7-A3C8-9553630FE3C1}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{787B600C-9A56-41C7-A3C8-9553630FE3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787B600C-9A56-41C7-A3C8-9553630FE3C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787B600C-9A56-41C7-A3C8-9553630FE3C1}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{787B600C-9A56-41C7-A3C8-9553630FE3C1}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{787B600C-9A56-41C7-A3C8-9553630FE3C1}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{904B8A0F-9D0C-453A-A135-BA622BF91103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904B8A0F-9D0C-453A-A135-BA622BF91103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904B8A0F-9D0C-453A-A135-BA622BF91103}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{904B8A0F-9D0C-453A-A135-BA622BF91103}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{904B8A0F-9D0C-453A-A135-BA622BF91103}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{904B8A0F-9D0C-453A-A135-BA622BF91103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904B8A0F-9D0C-453A-A135-BA622BF91103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904B8A0F-9D0C-453A-A135-BA622BF91103}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{904B8A0F-9D0C-453A-A135-BA622BF91103}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{904B8A0F-9D0C-453A-A135-BA622BF91103}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{60FD337B-8EB5-4E20-A951-6EBB09CCE442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FD337B-8EB5-4E20-A951-6EBB09CCE442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FD337B-8EB5-4E20-A951-6EBB09CCE442}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{60FD337B-8EB5-4E20-A951-6EBB09CCE442}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{60FD337B-8EB5-4E20-A951-6EBB09CCE442}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{60FD337B-8EB5-4E20-A951-6EBB09CCE442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FD337B-8EB5-4E20-A951-6EBB09CCE442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60FD337B-8EB5-4E20-A951-6EBB09CCE442}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{60FD337B-8EB5-4E20-A951-6EBB09CCE442}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{60FD337B-8EB5-4E20-A951-6EBB09CCE442}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{562C2915-8E47-40ED-9493-F67018BFDFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562C2915-8E47-40ED-9493-F67018BFDFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562C2915-8E47-40ED-9493-F67018BFDFE2}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{562C2915-8E47-40ED-9493-F67018BFDFE2}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{562C2915-8E47-40ED-9493-F67018BFDFE2}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{562C2915-8E47-40ED-9493-F67018BFDFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562C2915-8E47-40ED-9493-F67018BFDFE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{562C2915-8E47-40ED-9493-F67018BFDFE2}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{562C2915-8E47-40ED-9493-F67018BFDFE2}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{562C2915-8E47-40ED-9493-F67018BFDFE2}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{FA476A45-2BD5-413A-8004-F004C2897C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA476A45-2BD5-413A-8004-F004C2897C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA476A45-2BD5-413A-8004-F004C2897C64}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{FA476A45-2BD5-413A-8004-F004C2897C64}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{FA476A45-2BD5-413A-8004-F004C2897C64}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{FA476A45-2BD5-413A-8004-F004C2897C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA476A45-2BD5-413A-8004-F004C2897C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA476A45-2BD5-413A-8004-F004C2897C64}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{FA476A45-2BD5-413A-8004-F004C2897C64}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{FA476A45-2BD5-413A-8004-F004C2897C64}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{89ECC5F5-366E-4149-BEBC-C690ECB51CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89ECC5F5-366E-4149-BEBC-C690ECB51CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89ECC5F5-366E-4149-BEBC-C690ECB51CC3}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{89ECC5F5-366E-4149-BEBC-C690ECB51CC3}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{89ECC5F5-366E-4149-BEBC-C690ECB51CC3}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{89ECC5F5-366E-4149-BEBC-C690ECB51CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89ECC5F5-366E-4149-BEBC-C690ECB51CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89ECC5F5-366E-4149-BEBC-C690ECB51CC3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{89ECC5F5-366E-4149-BEBC-C690ECB51CC3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{89ECC5F5-366E-4149-BEBC-C690ECB51CC3}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{899DA3BB-3ACF-4316-8658-4616E109A7F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899DA3BB-3ACF-4316-8658-4616E109A7F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899DA3BB-3ACF-4316-8658-4616E109A7F3}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{899DA3BB-3ACF-4316-8658-4616E109A7F3}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{899DA3BB-3ACF-4316-8658-4616E109A7F3}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{899DA3BB-3ACF-4316-8658-4616E109A7F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899DA3BB-3ACF-4316-8658-4616E109A7F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899DA3BB-3ACF-4316-8658-4616E109A7F3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{899DA3BB-3ACF-4316-8658-4616E109A7F3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{899DA3BB-3ACF-4316-8658-4616E109A7F3}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{CD25FCE6-26E5-4D5F-B4B8-938B108C8EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD25FCE6-26E5-4D5F-B4B8-938B108C8EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD25FCE6-26E5-4D5F-B4B8-938B108C8EE3}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{CD25FCE6-26E5-4D5F-B4B8-938B108C8EE3}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{CD25FCE6-26E5-4D5F-B4B8-938B108C8EE3}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{CD25FCE6-26E5-4D5F-B4B8-938B108C8EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD25FCE6-26E5-4D5F-B4B8-938B108C8EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD25FCE6-26E5-4D5F-B4B8-938B108C8EE3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{CD25FCE6-26E5-4D5F-B4B8-938B108C8EE3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{CD25FCE6-26E5-4D5F-B4B8-938B108C8EE3}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{B091CB29-327E-45F4-9CD2-4A85D2E9B4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B091CB29-327E-45F4-9CD2-4A85D2E9B4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B091CB29-327E-45F4-9CD2-4A85D2E9B4D5}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B091CB29-327E-45F4-9CD2-4A85D2E9B4D5}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B091CB29-327E-45F4-9CD2-4A85D2E9B4D5}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{B091CB29-327E-45F4-9CD2-4A85D2E9B4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B091CB29-327E-45F4-9CD2-4A85D2E9B4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B091CB29-327E-45F4-9CD2-4A85D2E9B4D5}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B091CB29-327E-45F4-9CD2-4A85D2E9B4D5}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B091CB29-327E-45F4-9CD2-4A85D2E9B4D5}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{B9E737C6-3368-460E-B3FD-9CD5DEDDCAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E737C6-3368-460E-B3FD-9CD5DEDDCAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E737C6-3368-460E-B3FD-9CD5DEDDCAB5}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B9E737C6-3368-460E-B3FD-9CD5DEDDCAB5}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B9E737C6-3368-460E-B3FD-9CD5DEDDCAB5}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{B9E737C6-3368-460E-B3FD-9CD5DEDDCAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E737C6-3368-460E-B3FD-9CD5DEDDCAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E737C6-3368-460E-B3FD-9CD5DEDDCAB5}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B9E737C6-3368-460E-B3FD-9CD5DEDDCAB5}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B9E737C6-3368-460E-B3FD-9CD5DEDDCAB5}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+		{816A934B-AC16-433E-9816-3A0E2756E353}.Debug|Any CPU.ActiveCfg = Debug
+		{816A934B-AC16-433E-9816-3A0E2756E353}.Debug|Any CPU.Build.0 = Debug
+		{816A934B-AC16-433E-9816-3A0E2756E353}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{816A934B-AC16-433E-9816-3A0E2756E353}.Debug|Mixed Platforms.Build.0 = Debug
+		{816A934B-AC16-433E-9816-3A0E2756E353}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug
+		{816A934B-AC16-433E-9816-3A0E2756E353}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Build.0 = Debug
+		{816A934B-AC16-433E-9816-3A0E2756E353}.Release|Any CPU.ActiveCfg = Release
+		{816A934B-AC16-433E-9816-3A0E2756E353}.Release|Any CPU.Build.0 = Release
+		{816A934B-AC16-433E-9816-3A0E2756E353}.Release|Mixed Platforms.ActiveCfg = Release
+		{816A934B-AC16-433E-9816-3A0E2756E353}.Release|Mixed Platforms.Build.0 = Release
+		{816A934B-AC16-433E-9816-3A0E2756E353}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release
+		{816A934B-AC16-433E-9816-3A0E2756E353}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).Build.0 = Release
+		{89A6CBB5-D950-493E-AB2C-E49F462A5627}.Debug|Any CPU.ActiveCfg = Debug
+		{89A6CBB5-D950-493E-AB2C-E49F462A5627}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{89A6CBB5-D950-493E-AB2C-E49F462A5627}.Debug|Mixed Platforms.Build.0 = Debug
+		{89A6CBB5-D950-493E-AB2C-E49F462A5627}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug
+		{89A6CBB5-D950-493E-AB2C-E49F462A5627}.Release|Any CPU.ActiveCfg = Release
+		{89A6CBB5-D950-493E-AB2C-E49F462A5627}.Release|Mixed Platforms.ActiveCfg = Release
+		{89A6CBB5-D950-493E-AB2C-E49F462A5627}.Release|Mixed Platforms.Build.0 = Release
+		{89A6CBB5-D950-493E-AB2C-E49F462A5627}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release
+		{575BBDE7-214C-45A6-B11C-6849E147B33E}.Debug|Any CPU.ActiveCfg = Debug
+		{575BBDE7-214C-45A6-B11C-6849E147B33E}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{575BBDE7-214C-45A6-B11C-6849E147B33E}.Debug|Mixed Platforms.Build.0 = Debug
+		{575BBDE7-214C-45A6-B11C-6849E147B33E}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug
+		{575BBDE7-214C-45A6-B11C-6849E147B33E}.Release|Any CPU.ActiveCfg = Release
+		{575BBDE7-214C-45A6-B11C-6849E147B33E}.Release|Mixed Platforms.ActiveCfg = Release
+		{575BBDE7-214C-45A6-B11C-6849E147B33E}.Release|Mixed Platforms.Build.0 = Release
+		{575BBDE7-214C-45A6-B11C-6849E147B33E}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
