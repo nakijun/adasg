@@ -68,7 +68,7 @@
   </Target>
 
   <Target Name="Update">
-    <Exec Command="&quot;C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe&quot; /command:update /path:%WORKSPACE% /notempfile /closeonend:3" IgnoreExitCode="true"/>
+    <Exec Command="&quot;C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe&quot; /command:update /path:$(WORKSPACE%) /notempfile /closeonend:3" IgnoreExitCode="true"/>
   </Target>
 
   <Target Name="BuildMSI" DependsOnTargets="Update">
@@ -84,7 +84,7 @@
   </Target>
 
   <Target Name="Commit" DependsOnTargets="Clean">
-    <Exec Command="&quot;C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe&quot; /command:commit /path:%WORKSPACE% /notempfile /closeonend:3" IgnoreExitCode="true"/>
+    <Exec Command="&quot;C:\Program Files\TortoiseSVN\bin\TortoiseProc.exe&quot; /command:commit /path:$(WORKSPACE%) /notempfile /closeonend:3" IgnoreExitCode="true"/>
   </Target>
 
 </Project>
