@@ -49,6 +49,7 @@
     <Message Text="SlnFile: @(SlnFile)"/>
     <Message Text="temp files: @(TempFiles)"/>
     <Message Text="temp dirs: @(TempDirs)"/>
+    <Message Text="MsiExec /i $(WORKSPACE)\source\Setup\SetupADA\Release\Setup.msi"/>
   </Target>
 
   <Target Name="Clean" DependsOnTargets="RemoveDuplicateItems">
@@ -74,8 +75,12 @@
     <Exec Command="&quot;C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\devenv.com&quot; source\Setup\SetupADA.sln /rebuild Release /project SetupADA /projectconfig Release /Out SetupADABuild.log"/>
   </Target>
 
-  <Target Name="Install" DependsOnTargets="Clean;Update;BuildMSI">
-    <Exec Command="explorer source\Setup\SetupADA\Release\" ContinueOnError="true" IgnoreExitCode="true"/>
+  <Target Name="Setup">
+    <Exec Command="MsiExec /x{02D97251-845A-456B-872D-1440BCAF7FAB} /quiet" ContinueOnError="true" IgnoreExitCode="true"/>
+    <Exec Command="$(WORKSPACE)\source\Setup\SetupADA\Release\SetupADA.msi" ContinueOnError="true" IgnoreExitCode="true"/>
+  </Target>
+
+  <Target Name="Install" DependsOnTargets="Clean;Update;BuildMSI;Setup">
   </Target>
 
   <Target Name="Commit" DependsOnTargets="Clean">
