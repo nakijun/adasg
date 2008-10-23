@@ -4,6 +4,8 @@ SET WORKSPACE=%CD%
 SET PATH=%WORKSPACE%\util;%PATH%;
 SET BUILDFILE="%WORKSPACE%\util\default.build"
 
+IF "%1" NEQ "" GOTO END
+
 TITLE DevEnv Command Prompt @ %WORKSPACE%
 %comspec% /k ""C:\Program Files\Microsoft Visual Studio 9.0\VC\vcvarsall.bat"" x86
 :END
