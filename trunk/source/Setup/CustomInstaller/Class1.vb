@@ -58,7 +58,7 @@ Public Class SetupApp
         Return """" & _
            Path.Combine(Path.GetDirectoryName( _
            System.Reflection.Assembly. _
-           GetExecutingAssembly().Location) & "\PocketPC", file) & """"
+           GetExecutingAssembly().Location) & "\Install_ADAPpc", file) & """"
     End Function
 
     Private Shared Function KeyExists() As String
