@@ -21,6 +21,24 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_236E12CAE53166D2A1FAAA77BC4A374D"
+        "OwnerKey" = "8:_4BB8CBEB0B014685A1FDB80A64D07A56"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_236E12CAE53166D2A1FAAA77BC4A374D"
+        "OwnerKey" = "8:_B0A19F22538B4B55A43BC417CCD42263"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_236E12CAE53166D2A1FAAA77BC4A374D"
+        "OwnerKey" = "8:_9710DDA9ECDC48EF8840CC3836439BA3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_410DDB77DD82416EA86B2D014526D483"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -39,8 +57,44 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_6F05BF5CDD59B696F04BB3C831B36513"
+        "OwnerKey" = "8:_97B6DD02F926404F8B93A16694D5DEFA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_6F63A9B431E04EBAAFB4E2B711B017A7"
         "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7F19200DDFBBC31113ADC22FB507FE85"
+        "OwnerKey" = "8:_236E12CAE53166D2A1FAAA77BC4A374D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7F19200DDFBBC31113ADC22FB507FE85"
+        "OwnerKey" = "8:_FB81F0941B2D458183AB03A19348E355"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7F19200DDFBBC31113ADC22FB507FE85"
+        "OwnerKey" = "8:_B0A19F22538B4B55A43BC417CCD42263"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7F19200DDFBBC31113ADC22FB507FE85"
+        "OwnerKey" = "8:_9710DDA9ECDC48EF8840CC3836439BA3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7F19200DDFBBC31113ADC22FB507FE85"
+        "OwnerKey" = "8:_4BB8CBEB0B014685A1FDB80A64D07A56"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -63,8 +117,32 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_D8A47DF9761B9AC285117BDD1B067C73"
-        "OwnerKey" = "8:_97B6DD02F926404F8B93A16694D5DEFA"
+        "MsmKey" = "8:_BB5FAB38F7C6ACE4313E8E6998975485"
+        "OwnerKey" = "8:_410DDB77DD82416EA86B2D014526D483"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D5A8BCFDEBCA8AB34B4572867E3D3BFB"
+        "OwnerKey" = "8:_4BB8CBEB0B014685A1FDB80A64D07A56"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D5A8BCFDEBCA8AB34B4572867E3D3BFB"
+        "OwnerKey" = "8:_B0A19F22538B4B55A43BC417CCD42263"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D5A8BCFDEBCA8AB34B4572867E3D3BFB"
+        "OwnerKey" = "8:_9710DDA9ECDC48EF8840CC3836439BA3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D5A8BCFDEBCA8AB34B4572867E3D3BFB"
+        "OwnerKey" = "8:_236E12CAE53166D2A1FAAA77BC4A374D"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -88,6 +166,30 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_236E12CAE53166D2A1FAAA77BC4A374D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_7F19200DDFBBC31113ADC22FB507FE85"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_D5A8BCFDEBCA8AB34B4572867E3D3BFB"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_BB5FAB38F7C6ACE4313E8E6998975485"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_FB81F0941B2D458183AB03A19348E355"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -106,7 +208,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_D8A47DF9761B9AC285117BDD1B067C73"
+        "OwnerKey" = "8:_6F05BF5CDD59B696F04BB3C831B36513"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -231,6 +333,32 @@
         }
         "File"
         {
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_236E12CAE53166D2A1FAAA77BC4A374D"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:ADASymbolPicker, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                }
+            "SourcePath" = "8:ADASymbolPicker.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_39F38333BF25421393A45F96AACEC748"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_514A21B116C6452BB9AF6680D2D65C2B"
             {
             "SourcePath" = "8:..\\..\\..\\config\\GuestOnly.reg"
@@ -249,6 +377,37 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6F05BF5CDD59B696F04BB3C831B36513"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:dotnetCharting.WinForms, Version=4.4.2853.21899, Culture=neutral, PublicKeyToken=c3f34d622663b9f1, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_6F05BF5CDD59B696F04BB3C831B36513"
+                    {
+                    "Name" = "8:dotnetCharting.WinForms.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:dotnetCharting.WinForms.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_39F38333BF25421393A45F96AACEC748"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6F63A9B431E04EBAAFB4E2B711B017A7"
@@ -271,20 +430,67 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D8A47DF9761B9AC285117BDD1B067C73"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7F19200DDFBBC31113ADC22FB507FE85"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:dotnetCharting.WinForms, Version=4.4.2853.21899, Culture=neutral, PublicKeyToken=c3f34d622663b9f1, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Utilities, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_D8A47DF9761B9AC285117BDD1B067C73"
-                    {
-                    "Name" = "8:dotnetCharting.WinForms.dll"
-                    "Attributes" = "3:512"
-                    }
                 }
-            "SourcePath" = "8:dotnetCharting.WinForms.dll"
+            "SourcePath" = "8:Utilities.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_39F38333BF25421393A45F96AACEC748"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_BB5FAB38F7C6ACE4313E8E6998975485"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:OpenNETCF.Desktop.Communication, Version=2.9.3337.32452, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                }
+            "SourcePath" = "8:OpenNETCF.Desktop.Communication.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_39F38333BF25421393A45F96AACEC748"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D5A8BCFDEBCA8AB34B4572867E3D3BFB"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:ADADataAccess, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                }
+            "SourcePath" = "8:ADADataAccess.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_39F38333BF25421393A45F96AACEC748"
@@ -381,7 +587,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Autism Digital Assistant"
         "ProductCode" = "8:{02D97251-845A-456B-872D-1440BCAF7FAB}"
-        "PackageCode" = "8:{FDC655A5-AEE3-4585-9127-F11063E3A955}"
+        "PackageCode" = "8:{CB2A22D3-849C-43FC-BA03-F183512F3902}"
         "UpgradeCode" = "8:{FC85FD7A-078C-4925-A2D6-D3D489192D6E}"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
@@ -457,7 +663,7 @@
                                                     "Condition" = "8:"
                                                     "Transitive" = "11:FALSE"
                                                     "ValueTypes" = "3:1"
-                                                    "Value" = "8:C:\\Program Files\\Inflaton\\Autism Digital Assistant\\ADAControlCentre.exe"
+                                                    "Value" = "8:[TARGETDIR]ADAControlCentre.exe"
                                                     }
                                                 }
                                             }
@@ -987,7 +1193,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_0CE22949140D40FF95C93968BFE25C13"
             {
-            "SourcePath" = "8:..\\..\\ADAPpc\\SmartDeviceCabAdaPpc\\Debug\\ADA.cab"
+            "SourcePath" = "8:..\\..\\ADAPpc\\SmartDeviceCabAdaPpc\\Release\\ADA.cab"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_521872EE0D5E4F65950E1BAB304019A1"
@@ -1099,7 +1305,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_410DDB77DD82416EA86B2D014526D483"
             {
-            "SourcePath" = "8:..\\..\\ADA\\ADAControlCentre\\obj\\Debug\\ADAControlCentre.exe"
+            "SourcePath" = "8:..\\..\\ADA\\ADAControlCentre\\obj\\Release\\ADAControlCentre.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_39F38333BF25421393A45F96AACEC748"
@@ -1127,7 +1333,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_4BB8CBEB0B014685A1FDB80A64D07A56"
             {
-            "SourcePath" = "8:..\\..\\ADA\\ADACommunicator\\obj\\Debug\\ADACommunicator.exe"
+            "SourcePath" = "8:..\\..\\ADA\\ADACommunicator\\obj\\Release\\ADACommunicator.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_39F38333BF25421393A45F96AACEC748"
@@ -1183,7 +1389,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_9710DDA9ECDC48EF8840CC3836439BA3"
             {
-            "SourcePath" = "8:..\\..\\ADA\\ADASchedule\\obj\\Debug\\ADASchedule.exe"
+            "SourcePath" = "8:..\\..\\ADA\\ADASchedule\\obj\\Release\\ADASchedule.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_39F38333BF25421393A45F96AACEC748"
@@ -1211,7 +1417,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_97B6DD02F926404F8B93A16694D5DEFA"
             {
-            "SourcePath" = "8:..\\..\\ADA\\ADAAnalyzer\\obj\\Debug\\ADAAnalyzer.exe"
+            "SourcePath" = "8:..\\..\\ADA\\ADAAnalyzer\\obj\\Release\\ADAAnalyzer.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_39F38333BF25421393A45F96AACEC748"
@@ -1267,7 +1473,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_B0A19F22538B4B55A43BC417CCD42263"
             {
-            "SourcePath" = "8:..\\..\\ADA\\ADAWorkSystem\\obj\\Debug\\ADAWorkSystem.exe"
+            "SourcePath" = "8:..\\..\\ADA\\ADAWorkSystem\\obj\\Release\\ADAWorkSystem.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_39F38333BF25421393A45F96AACEC748"
@@ -1351,7 +1557,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_F23F251BA5E84778A6F110E9F8012F1E"
             {
-            "SourcePath" = "8:..\\CustomInstaller\\obj\\Debug\\CustomInstaller.dll"
+            "SourcePath" = "8:..\\CustomInstaller\\obj\\Release\\CustomInstaller.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_39F38333BF25421393A45F96AACEC748"
@@ -1379,7 +1585,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_FB81F0941B2D458183AB03A19348E355"
             {
-            "SourcePath" = "8:..\\..\\ADA\\SymbolManager\\obj\\Debug\\SymbolManager.exe"
+            "SourcePath" = "8:..\\..\\ADA\\SymbolManager\\obj\\Release\\SymbolManager.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_39F38333BF25421393A45F96AACEC748"
