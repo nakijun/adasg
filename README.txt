@@ -1,1 +1,0 @@
-Password for everything in ADA: p@ssw0rd
