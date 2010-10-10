@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnattaTimer", "AnattaTimer\AnattaTimer.csproj", "{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XrossGDIPlus", "XrossGDIPlus\XrossGDIPlus.csproj", "{24D9527D-ECFA-4F55-871F-569F781838FE}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "SetupTimer", "SetupTimer\SetupTimer.vddproj", "{C2D18953-7F3D-4555-AA14-A353630CA76F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4FA1136-E5A7-4338-A17D-A0ED74B5B20D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D9527D-ECFA-4F55-871F-569F781838FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D18953-7F3D-4555-AA14-A353630CA76F}.Debug|Any CPU.ActiveCfg = Debug
+		{C2D18953-7F3D-4555-AA14-A353630CA76F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
