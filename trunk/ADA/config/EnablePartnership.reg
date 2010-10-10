@@ -1,0 +1,3 @@
+REGEDIT4
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows CE Services]
+"GuestOnly"=dword:00000000
